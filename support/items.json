@@ -1,0 +1,26 @@
+[
+  {
+    "description": "book",
+    "category": "books"
+  },
+  {
+    "description": "music CD",
+    "category": "music"
+  },
+  {
+    "description": "chocolate bar",
+    "category": "food"
+  },
+  {
+    "description": "box of chocolates",
+    "category": "food"
+  },
+  {
+    "description": "bottle of perfume",
+    "category": "cosmetics"
+  },
+  {
+    "description": "packet of headache pills",
+    "category": "medical"
+  }
+]

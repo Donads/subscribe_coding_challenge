@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker run subscribe_coding_challenge /bin/bash -c "rspec"

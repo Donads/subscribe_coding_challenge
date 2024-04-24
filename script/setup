@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t subscribe_coding_challenge .
